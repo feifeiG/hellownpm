@@ -1,9 +1,6 @@
-<!-- about -->
+<!-- text -->
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-    <ggtext></ggtext>
-  </div>
+  <div>hello world from ggtext</div>
 </template>
 
 <script>
